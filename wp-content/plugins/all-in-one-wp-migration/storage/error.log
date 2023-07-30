@@ -1,0 +1,27 @@
+Mar 25 2018 03:47:50
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:47:51
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:47:52
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:47:53
+{"type":2,"message":"fopen(C:\\xampp\\htdocs\\fictional_university\/wp-content\/temp-write-test-1521949672): failed to open stream: Permission denied","file":"C:\\xampp\\htdocs\\fictional_university\\wp-admin\\includes\\file.php","line":1471}
+
+Mar 25 2018 03:48:07
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:48:08
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:48:09
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:48:10
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
+Mar 25 2018 03:48:11
+{"type":8,"message":"Constant DB_HOST already defined","file":"C:\\xampp\\htdocs\\fictional_university\\wp-config.php","line":39}
+
